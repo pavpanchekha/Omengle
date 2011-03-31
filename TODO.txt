@@ -1,0 +1,4 @@
+Allow reconnecting in some way, preferably with filters to ensure you do not restart talking to someone you just stopped talking to.
+Figure out when a conversant leaves the conversation
+Show source
+Expose quitting in the interface
