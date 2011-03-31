@@ -1,0 +1,9 @@
+Omengle --- Omegle for the polyglot-challenged
+==============================================
+
+Omegle is a site that randomly pairs strangers and invites them to talk
+to one another.  It's great, except that you might be paired with
+someone who doesn't speek your language.  Omengle rectifies that by
+placing Google Translate between you and your partner.
+
+The code is currently very clean and very featureless.
